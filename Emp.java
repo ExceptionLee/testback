@@ -3,4 +3,5 @@ public class Emp {
 	private String ename;
 	private String job;
 	private Integer age;
+	private String address;
 }
